@@ -1,6 +1,6 @@
 <table><tr><td valign="top" width="50%">
 
-<img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" align="left" height="" width="900" />  
+<img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" align="left" height="" width="800" />  
   
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefined&hide_border=true&layout=compact" align="right" /></div>  
