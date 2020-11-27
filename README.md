@@ -7,11 +7,11 @@
 
 <table><tr><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Halls2&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Halls2&show_icons=true&count_private=true&theme=radical&hide_border=true" align="right" /></div>
 
 </td><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halls2&hide_border=true&layout=compact" align="right" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halls2&hide_border=true&theme=radical&layout=compact" align="right" /></div>
 
 </td></tr></table>  
 
