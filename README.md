@@ -4,11 +4,11 @@
   
 <br/>  
 
-<table><tr><td valign="top" width="10%">
+<table><tr><td valign="top" width="1%">
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Hallssss&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true" align="right" /></div>
 
-</td><td valign="top" width="10%">
+</td><td valign="top" width="1%">
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hallssss&hide_border=true&theme=chartreuse-dark&layout=compact" align="right" /></div>
 
