@@ -1,4 +1,4 @@
-<img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" align="left" height="" width="835" />  
+<img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" align="left" height="" width="950" />  
   
 
 <br/>  
