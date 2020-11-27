@@ -9,7 +9,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=set&theme=chartreuse-dark&hide_border=true&count_private=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=set&theme=chartreuse-dark&hide_border=true&count_private=true&layout=compact" align="left" style="width: 300%" />
 
 </td></tr></table>
 <br />
