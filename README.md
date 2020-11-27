@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" align="center" style="width: 150%" />
+<img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" align="center" style="width: 1050%" />
 </div>  
   
 <br/>  
