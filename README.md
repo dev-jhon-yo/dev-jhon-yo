@@ -1,18 +1,32 @@
 <div align="center">
-<img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" align="center" style="width: 1000%" />
+<img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" align="center" style="width: 100%" />
 </div>  
   
+
 <br/>  
 
-<table><tr><td valign="top" width="1%">
+<table><tr><td valign="top" width="50%">
 
-![Hallssss github stats](https://github-readme-stats.vercel.app/api?username=Hallssss&theme=dark&show_icons=true)
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Halls2&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" /></div>
 
-</td><td valign="top" width="1%">
+</td><td valign="top" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hallssss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halls2&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
 
 </td></tr></table>  
+
+<br/>  
+
+<img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" align="right" style="width: 100%" />  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Hallssss&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/Hallssss" target="_blank" style="display: inline-block;">
@@ -23,4 +37,5 @@
             </a></div>
 <br />
 
-
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
