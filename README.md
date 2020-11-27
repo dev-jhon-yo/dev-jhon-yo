@@ -1,16 +1,16 @@
 <div align="center">
-<img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" align="center" style="width: 1050%" />
+<img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" align="center" style="width: 1000%" />
 </div>  
   
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="1%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Hallssss&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true" align="right" /></div>
+![Hallssss github stats](https://github-readme-stats.vercel.app/api?username=Hallssss&theme=dark&show_icons=true)
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="1%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hallssss&hide_border=true&theme=chartreuse-dark&layout=compact" align="right" /></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hallssss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr></table>  
 
