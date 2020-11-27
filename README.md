@@ -5,7 +5,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hallssss&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hallssss&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
