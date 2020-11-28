@@ -3,8 +3,6 @@
 
 <br/>  
 
-  
-
 <br/>  
 
 <table><tr><td valign="top" width="33%">
@@ -25,11 +23,11 @@
 
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hallssss&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hallssss&show_icons=true&theme=dark&count_private=true&hide_border=false" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefined&theme=dark&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefined&theme=dark&hide_border=false&layout=compact" align="left" />
 
 </td></tr></table>  
 
