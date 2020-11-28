@@ -7,15 +7,9 @@
 
 <table><tr><td valign="top" width="10%">
 
-
-
 </td><td valign="top" width="10%">
 
-
-
 </td><td valign="top" width="10%">
-
-
 
 </td></tr></table>
 
@@ -33,8 +27,6 @@
 
 <br/>  
 
-  
-
 <br/>  
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
@@ -45,7 +37,6 @@
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
 
 <div align="center">
