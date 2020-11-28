@@ -5,15 +5,15 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="10%">
 
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="10%">
 
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="10%">
 
 
 
