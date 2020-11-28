@@ -39,7 +39,7 @@
 
 <br/>  
 
-<img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" align="center" style="width: 500%" />  
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
