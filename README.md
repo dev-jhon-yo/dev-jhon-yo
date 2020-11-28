@@ -1,13 +1,5 @@
-<table><tr><td valign="top" width="50%">
-
 <img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" align="left" height="" width="1020" />  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
