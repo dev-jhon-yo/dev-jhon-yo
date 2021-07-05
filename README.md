@@ -1,51 +1,29 @@
-<img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" align="left" height="" width="1020" />  
+<p align="center">
+<img src="https://img.shields.io/github/followers/Hallssss?style=socialcolor=49AA26&labelColor=000000" alt="Status Study">
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Hallssss.Hallssss&color=49AA26&labelColor=000000" alt="Visitor Count">
+<img src="https://img.shields.io/static/v1?label=Status&message=Study&color=49AA26&labelColor=000000" alt="Status Study">
+
+<img src="https://cdn.discordapp.com/attachments/843562170113589268/857806390994403358/Banner03.gif" width="100%" />  
   
 
-<br/>  
+<br/>
 
-<br/>  
+<br/>
 
-<table><tr><td valign="top" width="10%">
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hallssss&bg_color=141414&color=FFFFFF&line=0272F0&point=FFFFFF&hide_border=true" /></a>
 
-</td><td valign="top" width="10%">
+ 
 
-</td><td valign="top" width="10%">
 
-</td></tr></table>
-
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hallssss&show_icons=true&theme=dark&count_private=true&hide_border=false" align="center" /></div>
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefined&theme=dark&hide_border=false&layout=compact" align="left" />
-
-</td></tr></table>  
-
-<br/>  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
+<!-- ## 📘 My top open source projects
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
+  <a href="https://github.com/DenverCoder1/weather-app-tutorial"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=weather-app-tutorial&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="weather-app-tutorial"></a>
+  <a href="https://github.com/DenverCoder1/table2ascii"><img width="310" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
+</p> -->
 
 
