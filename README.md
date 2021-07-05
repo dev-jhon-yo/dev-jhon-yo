@@ -4,12 +4,7 @@
 <img src="https://img.shields.io/static/v1?label=Status&message=Study&color=49AA26&labelColor=000000" alt="Status Study">
 
 <img src="https://cdn.discordapp.com/attachments/843562170113589268/857806390994403358/Banner03.gif" width="100%" />  
-  
-
-<br/>
-
-<br/>
-
+ 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hallssss&bg_color=141414&color=FFFFFF&line=0272F0&point=FFFFFF&hide_border=true" /></a>
 
