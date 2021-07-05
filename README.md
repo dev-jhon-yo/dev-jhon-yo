@@ -6,7 +6,7 @@
 <img src="https://cdn.discordapp.com/attachments/843562170113589268/857806390994403358/Banner03.gif" width="100%" />  
  
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hallssss&bg_color=141414&color=FFFFFF&line=0272F0&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Halls's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hallssss&bg_color=141414&color=FFFFFF&line=0272F0&point=FFFFFF&hide_border=true" /></a>
 
  
 
