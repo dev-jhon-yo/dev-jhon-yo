@@ -18,7 +18,7 @@ Pretendo me aprimorar cada vez mais como Dev, para que com os meus conhecimentos
 Sinta-se a vontade pessoa, para mandar uma mensagem, entrar em contato para qualquer finalidade, tanto como sugestão, ofertas de emprego, oportunidades, ideias de projetos, crítica construtiva ou Networking.
  </br>
  </br>
- 📞 Discord: Jhon#5284 <a href="https://www.linkedin.com/in/jhonata-moura-33b380238/">🖥️ Linkedin</a> <a href="https://app.rocketseat.com.br/me/halls-de-cacal-07957">🚀 Perfil Rockeseat</a>
+ 📞 Discord: JhoN"#5284 <a href="https://www.linkedin.com/in/jhonata-moura-33b380238/">🖥️ Linkedin</a> <a href="https://app.rocketseat.com.br/me/halls-de-cacal-07957">🚀 Perfil Rockeseat</a>
 </p>
 
 
