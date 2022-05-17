@@ -23,7 +23,7 @@ Sinta-se a vontade pessoa, para mandar uma mensagem, entrar em contato para qual
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Halls's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hallssss&bg_color=141414&color=FFFFFF&line=0272F0&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JhoN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dev-JhoN&bg_color=141414&color=FFFFFF&line=0272F0&point=FFFFFF&hide_border=true" /></a>
 
  
 
