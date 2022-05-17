@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://img.shields.io/github/followers/Hallssss?style=socialcolor=49AA26&labelColor=000000" alt="Status Study">
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Hallssss.Hallssss&color=49AA26&labelColor=000000" alt="Visitor Count">
+<img src="https://img.shields.io/github/followers/Dev-JhoN?style=socialcolor=49AA26&labelColor=000000" alt="Status Study">
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Dev-JhoN.Dev-JhoN&color=49AA26&labelColor=000000" alt="Visitor Count">
 <img src="https://img.shields.io/static/v1?label=Status&message=Study&color=49AA26&labelColor=000000" alt="Status Study">
 <a href="https://www.linkedin.com/in/jhonata-moura-33b380238/" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
