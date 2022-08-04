@@ -9,7 +9,7 @@
 <img src="https://cdn.discordapp.com/attachments/843562170113589268/857806390994403358/Banner03.gif" width="100%" />  
  
 <p align="center">
-Estou em busca de novos desafios e conexões na área da tecnologia em geral, no momento, faço parte do programa de formação para WebDev da @Rocketseat chamado Explorer.
+Estou em busca de novos desafios e conexões na área da tecnologia em geral.
 </p>
 <p align="center">
 Pretendo me aprimorar cada vez mais como Dev, para que com os meus conhecimentos eu possa desenvolver projetos e contribuir com a comunidade através de aplicações que tenham um impacto positivo na vida das pessoas! 
@@ -18,7 +18,7 @@ Pretendo me aprimorar cada vez mais como Dev, para que com os meus conhecimentos
 Sinta-se a vontade pessoa, para mandar uma mensagem, entrar em contato para qualquer finalidade, tanto como sugestão, ofertas de emprego, oportunidades, ideias de projetos, crítica construtiva ou Networking.
  </br>
  </br>
- 📞 Discord: JhoN"#5284 <a href="https://www.linkedin.com/in/jhonata-moura-33b380238/">🖥️ Linkedin</a> <a href="https://app.rocketseat.com.br/me/halls-de-cacal-07957">🚀 Perfil Rockeseat</a>
+ 📞 Discord: JhoN"#5284 <a href="https://www.linkedin.com/in/jhonata-moura-33b380238/">🖥️ Linkedin</a> <a href="https://app.rocketseat.com.br/me/07957">🚀 Perfil Rockeseat</a>
 </p>
 
 
