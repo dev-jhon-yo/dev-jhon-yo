@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://img.shields.io/github/followers/Dev-JhoN?style=socialcolor=49AA26&labelColor=000000" alt="Status Study">
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Dev-JhoN.Dev-JhoN&color=49AA26&labelColor=000000" alt="Visitor Count">
+<img src="https://img.shields.io/github/followers/dev-jhon-ss?style=socialcolor=49AA26&labelColor=000000" alt="Status Study">
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=dev-jhon-ss.dev-jhon-ss&color=49AA26&labelColor=000000" alt="Visitor Count">
 <img src="https://img.shields.io/static/v1?label=Status&message=Study&color=49AA26&labelColor=000000" alt="Status Study">
 <a href="https://www.linkedin.com/in/jhonata-moura-33b380238/" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
@@ -32,7 +32,7 @@ either as suggestion, job offers, opportunities, project ideas, constructive cri
                                                        <strong>while(!(sucess = try()))</strong>                       
                                                                                     <img src='https://cdn3.emoji.gg/emojis/8994-angrysharkbongocat.gif'>       
                                                         <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JhoN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dev-JhoN&bg_color=141414&color=FFFFFF&line=0272F0&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JhoN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dev-jhon-ss&bg_color=141414&color=FFFFFF&line=0272F0&point=FFFFFF&hide_border=true" /></a>
  </pre>
 </p>
 
