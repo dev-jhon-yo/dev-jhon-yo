@@ -7,23 +7,35 @@
 </a>
 
 <img src="https://cdn.discordapp.com/attachments/843562170113589268/857806390994403358/Banner03.gif" width="100%" />  
- 
-<p align="center">
-Estou em busca de novos desafios e conexões na área da tecnologia em geral.
-</p>
-<p align="center">
-Pretendo me aprimorar cada vez mais como Dev, para que com os meus conhecimentos eu possa desenvolver projetos e contribuir com a comunidade através de aplicações que tenham um impacto positivo na vida das pessoas! 
-</p>
-<p align="center">
-Sinta-se a vontade pessoa, para mandar uma mensagem, entrar em contato para qualquer finalidade, tanto como sugestão, ofertas de emprego, oportunidades, ideias de projetos, crítica construtiva ou Networking.
- </br>
- </br>
- 📞 Discord: JhoN"#5284 <a href="https://www.linkedin.com/in/jhonata-moura-33b380238/">🖥️ Linkedin</a> <a href="https://app.rocketseat.com.br/me/07957">🚀 Perfil Rockeseat</a>
-</p>
 
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<p align="center">
+<code>
+~> I'm looking for new challenges and connections in the area of technology in general.
+I intend to improve myself more and more as a Dev, so that with my knowledge I can develop
+projects and contribute to the community through applications that have a positive impact on people's lives!
+Feel free to send a message, get in touch for any purpose,
+either as suggestion, job offers, opportunities, project ideas, constructive criticism or networking.
+</code>
+</p>
+<p align="center">
+<pre>
+ ~> <strong>note.txt</strong>                                                                          ~> <strong>contacts.txt</strong> 
+1. If I'm not responding to any of your PRs or issues,                                     - Discord: JhoN"#5284
+   feel free to remind me via discord.                                                      
+2.⠀Give respect to earn respect.                                                           <a href="https://www.linkedin.com/in/jhonata-moura-33b380238/">- Linkedin</a>
+3.⠀I don't have any other profiles.                                                   
+<strong>Project:</strong>                                                                                   <a href="https://app.rocketseat.com.br/me/07957">- Perfil Rocketseat</a>
+ -⠀Currently working on me.                
+ -⠀Coding Discord BOT in Eris.                                                             - dev.jhon.ss@gmail.com
+ <strong>Plan:</strong>                       
+  Learning...                                                   
+                                                       <strong>while(!(sucess = try()))</strong>                       
+                                                                                    <img src='https://cdn3.emoji.gg/emojis/8994-angrysharkbongocat.gif'>       
+                                                        <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JhoN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dev-JhoN&bg_color=141414&color=FFFFFF&line=0272F0&point=FFFFFF&hide_border=true" /></a>
+ </pre>
+</p>
+
 
  
 
