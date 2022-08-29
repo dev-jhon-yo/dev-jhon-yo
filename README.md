@@ -26,7 +26,7 @@
 3.⠀I don't have any other profiles.                                                   
 <strong>Project:</strong>                                                                                   <a href="https://app.rocketseat.com.br/me/07957">- Perfil Rocketseat</a>
  -⠀Currently working on me.                
- -⠀Coding Discord BOT in Eris.                                                             - dev.jhon.ss@gmail.com
+ -⠀Study web3 dev.                                                                         - dev.jhon.ss@gmail.com
  <strong>Plan:</strong>                       
   Learning...       
   
