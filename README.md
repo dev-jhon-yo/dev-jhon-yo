@@ -12,7 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0759B8&center=true&vCenter=true&width==1000&lines=%F0%9D%98%84%F0%9D%97%B5%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B2(!(%F0%9D%98%80%F0%9D%98%82%F0%9D%97%B0%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%80+%3D+%F0%9D%98%81%F0%9D%97%BF%F0%9D%98%86())))](https://git.io/typing-svg)
 
 <p align="center">
-&nbsp;&nbsp;Hello, my name is JhoN and I am looking for new challenges and connections in the area of technology in general, at the moment.
+&nbsp;&nbsp;Hello, my name is Jhonata and I am looking for new challenges and connections in the area of technology in general, at the moment.
 &nbsp;I intend to improve myself more and more as Dev, so that with my knowledge I can develop projects and contribute to the community through applications that have a positive impact on people's lives!
 &nbsp;Feel the person's will, to send a message, get in touch for any purpose, such as suggestion, job offers, opportunities, project ideas, constructive criticism or Networking.
 </p>
