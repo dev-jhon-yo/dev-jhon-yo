@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://img.shields.io/github/followers/dev-jhon-ss?style=socialcolor=49AA26&labelColor=000000" alt="Status Study">
-<img src="https://img.shields.io/badge/Discord-JhoN-blueviolet.svg?style=socialcolor=49AA26&labelColor=000000" alt="Discord Server">
+<img src="https://img.shields.io/github/followers/JhoN-yo?style=socialcolor=49AA26&labelColor=000000" alt="Status Study">
+<img src="https://img.shields.io/badge/Discord-JhoN.yo-blueviolet.svg?style=socialcolor=49AA26&labelColor=000000" alt="Discord Server">
 <img src="https://img.shields.io/badge/Email-Contact-orange.svg?style=socialcolor=49AA26&labelColor=000000" alt="Email:to">
 <img src="https://img.shields.io/static/v1?label=Status&message=Study&color=49AA26&labelColor=000000" alt="Status Study">
 <a href="https://www.linkedin.com/in/jhonata-moura-33b380238/" alt="linkedin" target="_blank">
@@ -18,15 +18,15 @@
 </p>
    
 <div align="center">  
-<img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dev-jhon-ss&show_icons=true&count_private=true&hide_border=true&title_color=0759b8&icon_color=0759b8&text_color=c9d1d9&bg_color=141414" alt="jhon github stats" />
+<img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JhoN-yo&show_icons=true&count_private=true&hide_border=true&title_color=0759b8&icon_color=0759b8&text_color=c9d1d9&bg_color=141414" alt="jhon github stats" />
 &nbsp;
-<img  width="20%" src="https://media.discordapp.net/attachments/1014570357295947937/1016638189324206140/pnn_logo_v2.png?width=663&height=663">
+<img  width="30%" src="https://media.discordapp.net/attachments/1009907460586352660/1038580238076088390/Yolo-aiv23.png">
 &nbsp;
 &nbsp;
-<img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jhon-ss&layout=compact&hide_border=true&title_color=0759b8&text_color=c9d1d9&bg_color=141414" />
+<img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoN-yo&layout=compact&hide_border=true&title_color=0759b8&text_color=c9d1d9&bg_color=141414" />
 </div>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JhoN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dev-jhon-ss&bg_color=141414&color=FFFFFF&line=0272F0&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JhoN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JhoN-yo&bg_color=141414&color=FFFFFF&line=0272F0&point=FFFFFF&hide_border=true" /></a>
 
 
 
