@@ -18,12 +18,12 @@
 </p>
    
 <div align="center">  
-<img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JhoN-yo&show_icons=true&count_private=true&hide_border=true&title_color=0759b8&icon_color=0759b8&text_color=c9d1d9&bg_color=141414" alt="jhon github stats" />
+<img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JhoN-yo&show_icons=true&count_private=true&hide_border=true&title_color=0759b8&icon_color=0759b8&text_color=c9d1d9&bg_color=141414" alt="jhon github stats" />
 &nbsp;
-<img  width="30%" src="https://media.discordapp.net/attachments/1009907460586352660/1038580238076088390/Yolo-aiv23.png">
+<img  width="15%" src="https://cdn.discordapp.com/attachments/1038867198908833802/1040758522201247754/yoloNF.png">
 &nbsp;
 &nbsp;
-<img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoN-yo&layout=compact&hide_border=true&title_color=0759b8&text_color=c9d1d9&bg_color=141414" />
+<img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoN-yo&layout=compact&hide_border=true&title_color=0759b8&text_color=c9d1d9&bg_color=141414" />
 </div>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JhoN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JhoN-yo&bg_color=141414&color=FFFFFF&line=0272F0&point=FFFFFF&hide_border=true" /></a>
