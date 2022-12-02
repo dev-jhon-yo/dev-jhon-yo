@@ -21,7 +21,8 @@ class Skills extends SoftwareDeveloper {
 }
 
 class Contact extends SoftwareDeveloper {
-  email = 'dev.jhon.ss@gmail.com';
+  email   = 'dev.jhon.ss@gmail.com';
+  dicsord = true;
 }
 ```
 
