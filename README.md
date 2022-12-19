@@ -11,13 +11,14 @@ class Bio extends SoftwareDeveloper {
   company  = 'Open for Business';
   location = 'Brazil, PB';
   website  = 'Comming Soon';
-  currentProject = 'Yolo, Discord Music Bot';
+  currentProject = 'Contributor for Web3Dev';
 }
 
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'TypeScript'];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['NodeJS', 'Express'];
+  libraries = ['Discord.js', 'Eris'];
 }
 
 class Contact extends SoftwareDeveloper {
