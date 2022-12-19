@@ -18,7 +18,7 @@ class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'TypeScript'];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['NodeJS', 'Express'];
-  libraries = ['Discord.js', 'Eris'];
+  libraries  = ['Discord.js', 'Eris'];
 }
 
 class Contact extends SoftwareDeveloper {
