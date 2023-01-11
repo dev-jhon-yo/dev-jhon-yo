@@ -10,7 +10,7 @@ class Bio extends SoftwareDeveloper {
   title    = 'Back-end Developer';
   company  = 'Open for Business';
   location = 'Brazil, PB';
-  website  = 'Comming Soon';
+  website  = 'Coming Soon';
   currentProject = 'Contributor for Web3Dev';
 }
 
