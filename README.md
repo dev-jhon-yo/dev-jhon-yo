@@ -23,7 +23,7 @@ class Skills extends SoftwareDeveloper {
 
 class Contact extends SoftwareDeveloper {
   email    = 'dev.jhon.ss@gmail.com';
-  linkedin = 'www.linkedin.com/in/jhonata-moura-33b380238/';
+  linkedin = true;
   discord  = true;
 }
 ```
