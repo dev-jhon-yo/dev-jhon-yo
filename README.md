@@ -7,7 +7,7 @@ import { SoftwareDeveloper } from 'JhoN-yo';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Jhonata Moura';
-  title    = 'Front-end Developer';
+  title    = 'Web and Discord Bot Developer';
   company  = 'Open for Business';
   location = 'Brazil, PB';
   website  = 'Coming Soon';
