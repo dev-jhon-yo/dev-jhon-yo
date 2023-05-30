@@ -11,11 +11,10 @@ class Bio extends SoftwareDeveloper {
   company  = 'Open for Business';
   location = 'Brazil, PB';
   website  = 'Coming Soon';
-  currentProject = 'Contributor for Web3Dev';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'TypeScript'];
+  languages  = ['JavaScript', 'TypeScript', 'Lua', 'Luau'];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['Reactjs', 'Nextjs'];
   libraries  = ['Discord.js', 'Eris'];
