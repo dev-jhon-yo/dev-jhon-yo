@@ -3,7 +3,7 @@
 <!-- <h1>// Personal</h1> -->
 
 ```ts
-import { SoftwareDeveloper } from 'JhoN-yo';
+import { SoftwareDeveloper } from 'dev-jhon-yo';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Jhonata Moura';
