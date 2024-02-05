@@ -3,28 +3,30 @@
 <!-- <h1>// Personal</h1> -->
 
 ```ts
-import { SoftwareDeveloper } from 'dev-jhon-yo';
+import { Developer } from 'dev-jhon-yo';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends Developer {
   name     = 'Jhonata Moura';
-  title    = 'Web and Discord Bot Developer';
+  main     = 'Roblox Game Dev';
+  misc     = ['Discord Bot', 'Web Development'];
   company  = 'Open for Business';
   location = 'Brazil, PB';
   website  = 'Coming Soon';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends Developer {
   languages  = ['JavaScript', 'TypeScript', 'Lua', 'Luau'];
   databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['Reactjs', 'Nextjs'];
+  frameworks = ['Reactjs', 'Nextjs', 'roblox-ts'];
   libraries  = ['Discord.js', 'Eris'];
 }
 
-class Contact extends SoftwareDeveloper {
+class Contact extends Developer {
   email    = 'dev.jhon.yo@gmail.com';
   linkedin = true;
   discord  = true;
 }
+
 ```
 
 <div>  
