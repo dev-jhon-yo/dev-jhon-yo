@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://media.discordapp.net/attachments/1143509216699617391/1237074744558227567/PROFILE_README_Banner_1.png?ex=663a5322&is=663901a2&hm=e4648190a54694dd96d013a7a00cd04920a4d8d6f05f9c98c8ef419af48cebf5&=&format=webp&quality=lossless" width="100%" />
+<img src="./PROFILE README Banner.png" width="100%" />
   
 <!-- Stats -->
  <div align="center">
