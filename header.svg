@@ -1,0 +1,56 @@
+<svg fill="none" viewBox="0 0 800 144" width="800" height="144" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          text-align: center;
+          margin: 0;
+          width: 100%;
+          height: 9rem;
+          border-radius: 0.25rem;
+          color: #c9d1d9;
+        }
+
+        a {
+          color: white;
+          text-decoration: none;
+          padding: 0.5rem;
+        }
+
+        a:hover {
+          filter: brightness(120%);
+        }
+
+        a:focus {
+          background-color: hsla(210, 80%, 50%, 0.25);
+          border: 1px solid hsla(210, 80%, 50%, 0.25);
+          outline: none;
+        }
+
+        .icon-image {
+          margin-bottom: 0.5rem;
+        }
+
+        .icon-text {
+          text-shadow: 0 0.125rem 0.25rem hsl(0, 0%, 0%);
+          font-weight: 600;
+          background-color: hsla(0, 0%, 0%, 0.25);
+          padding: 0.2rem 0.4rem;
+          border-radius: 0.25rem;
+        }
+      </style>
+      <div class="container">
+          <a class="icon" href="https://godotengine.org" target="_blank" rel="noopener">
+            <img class="icon-image" width="64" height="64" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAAXNSR0IArs4c6QAAAtBQTFRFAAAAJ0NbJEJbKkZaKkVaKUNZKkRaKURaKkRbKUNZAAAAKURaLktjMlBpNFNuNVVwJ0NYKkVcK0ZcMlFqJEJVKURaKERZKkRZKkRZRGJ7eI2fVXCGSGV+mqq31dzh////rLnErbrF1dvhXniNvsjR/f390OHuoMPebqTMosXe/v7+W3WKW3WLQ2F67/Hz8PX5qMjgXJnGR4y/UZLC8vb6wsvTwszUh5qqV5bEnsLda4OWXXeMfZGjYp3ITpDB7/X5boWYcKXNc6fOkLrYj7nYX3mOfa7SOVlzfJGiirbWe5Chsr7IUW2EPFt1tMDK3+v0ZJ7JlKWzpsfgmsDc9fn7+fr7pLO/2d/k/P3+o8XfS47ApMbfpbO/dYudvtboVpXEuNLm8/f6eavQTGmA8/X21eXwTI/Aa6PLYZzIydHYXprHg5enp7XB5e71jZ+uhLLUOFdy09rgWpjF0tnf9vf4zN/tiJuqjLfX+Pn61OTw4u31w9nqdanP9/j5WJbF5O719/f3nMHcxNrq3NzcYWBiQUBCSUhKqqqrVZXEUpPD+Pj4WFdYxMPEs8/kaqLL/P39xMTFWFdZcabN0tLSh4eI0uPvmb/b2dnZjIuM4ez0/Pz8aWhqQ0JE1tbWirXW+/z97+/vhIOEbGtsysnKy97tycnJaaHL2Ofx9vn7hbPUT5HCY53ISo7Alr3a+vv7+Pr82ujy1uXwtdHls9DkXZnGtNDl+/v87fT45/D23OnyzeDt4+319Pb3r83jttHly97ssM3j8vT2qcnhfK3RVJTDpcfftcHK6vL3mL7b4Oz06/L4s7/JgZWmgK/Slb3awdjpX5vH8fb63+ToSY2/SY3A3ePnN1dxdIqcu9Tnc4mcl6e1v9fokKKxeKvQ4ebqyNzrOllzlaa07vHz7PP4eqzQlLzZfa3RZZ7J3OHm2+HlU2+FhZmpKURZKkRZK0RbAAAAKL87dgAAAPB0Uk5TAAAqirzp/wB+9gG//////wB5//8q9om55v/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////n93sCb4vmvgAAA/BJREFUeNqczEUCg1AMBNDBBr4bzv3PWe+umreJBxdV3bQd/9S1TV3hph8URdTQ40Ib0jof/uSdJY0GYmIuQaRkpohxYglChdOImTaIWc5Y6OQPHBes9PIHnivIN8NtP57psW9vlsgzpfSA7TwUhWF4CB3Aj+/a3MVlbdu2bcy9OoupTp6F+I32gcDff/8BnLGN8/Xqxb+/IgKXV9e4ub27f3iUrD093N/d3uD66pI38Pzy+vZORFKZfLOpkEmJ6P3t9eWZM/CBT9r6wvfPzze+2NYnPjgDv1DSlkoNAGoV21LilzOggZYYnd6g1+uI0ULDGTDCRHuYcHkqYGZ/3gIr7WGFjU2F+VDADsgdEqcLbg/t4XHD5ZQ45IB9f8ALnz8QDIUj0RjtFYtHwolgwO+Dd18g+ZAiSmeQzdFBuSwyaaLUQ3I3kC8US7RWrtARlTKtlYqF/E6gGqgRt1qgKgzUYSARDKgLAo0midJsCAIttEmENlqCQKcr6xG3nqzfEX5Ex2BI3IYDx+4cjDAmTmOM9k3i5I0dVkWns/lCeNFiPptGVWz9bbJ3lFeEVMMBxEAULeXdc0s3OaWS2LZV6+bPrDXWt3ROwDABC7Bf8W32aBqcgP6PgAPX84NQ4TUhingtUMLA91w4YgKxlKT+2bKcboVSFrTnFb3ViRQLCTRofWpdT7cBGGjvO/bYohESkDH61Cb1mYA6sccRstgG87KeoNt+PBM49u18XJf5Qms56OgRhlH4TnqSRhtP3iKuJmrcuIx34poXUcQN1vz5rc3ftu3LKN6ZelQ9wfgZf+eQtWBscmr63czsHH0voLn5mXfTU5NjNgS0sAgsSeM8vwws88y4tAQsLpClgHE4ScPldrtIw+kgshJY8L8FHnjFyuqaLK+TAeuyvLG6IrzQF2yKObEFANtfg03jS7htA8CWmNvZ1BdInMHK7iSp7EFjj1QmdxXObUlfsH9AzCEc6ht4c6QwR2/UN+HAITHHJ7qCM0+JOYXPz68NAWIC4Nfq9+GUmKdndQXBEDFhfCYiXuH6l1R9JSK8MkxMNKYriCOhXunz5OpqSoity1rUpDNbQqRWV5PP1XtLIK4reJCN5MgG+feFon68l1C2YciVUTEqGFXcu0UW3KrhhnHFqeNVg0xpvELdrCNdaaLlI0N8LTSvmJesdqeLXqDvoF9w9AM9dDtty5b24O5FAGJ1dSAPlRHRSBnKg9VVAXycltn1AuLayr5Wspkv5FHAy0xZK1/8bWVM8Mra4TUQOFi/QohhGvCGwg4HxV0eyjtdTG8p6fa9FWFgfEdJx/OdAAPDe0q6vu8hne+3bGSBt6DON8XdfwCAboINdfliaQAAAABJRU5ErkJggg=="/>
+            <br/>
+            <span class="icon-text">icon.png</span>
+          </a>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
