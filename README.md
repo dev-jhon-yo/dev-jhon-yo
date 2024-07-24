@@ -1,10 +1,7 @@
 <!-- Banner -->
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" alt="godot logo"  />
 </div>
-
   
 <!-- Stats 
  <div align="center">
