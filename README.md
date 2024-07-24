@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="./profile-readme-banner-v2.png" width="100%" />
+<img src="./header.svg" width="100%" />
   
 <!-- Stats -->
  <div align="center">
