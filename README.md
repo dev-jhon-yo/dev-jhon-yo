@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" alt="godot logo"  />
+  <img src="https://media.discordapp.net/attachments/1048602445212827729/1285354863579893801/Prancheta_1.png?ex=66ee94c0&is=66ed4340&hm=75a3f9178307e3ccc2b6eee5d383b6d5ff47b0c1cd3dc4a3537c305a598e7d85&=&format=webp&quality=lossless&width=701&height=701" height="100" alt="yolo logo"  />
 </div>
   
 <!-- Stats 
